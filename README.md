@@ -1,2 +1,13 @@
 # ipaddr_scripts
-IPAddress scripts (WSH)
+IPAddress scripts (WSH)  
+  
+とりあえず動けばいいやってやつ。  
+  
+随時修正予定  
+  
+Windows Powershellだとネットワーク設定で管理者権限必要なので、頭に"run"ってついてるファイル  
+を先に実行すれば、管理者権限で本体のスクリプトが実行される。  
+  
+使用前は、使用するPCに応じて設定が必要。  
+  
+`$devicename` にアダプター名（インターフェース名ではないよ！）を入れて実行すること。
