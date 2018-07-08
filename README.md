@@ -1,2 +1,4 @@
 # ipaddr_scripts
-IPAddress scripts (WSH)
+IPAddress scripts (WSH)  
+
+とりあえず動けばいいやってやつ。
